@@ -3,7 +3,7 @@
 		"common.gypi"
 	],
 	"variables": {
-		"shared_gdal%": "false",
+		"shared_gdal%": "true",
 		"runtime_link%": "shared",
 		"enable_logging%": "false",
 		"enable_asan%": "false",
